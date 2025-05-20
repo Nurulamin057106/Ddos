@@ -6,7 +6,7 @@ def print_logo ():#line:7:def print_logo():
     os .system ("clear")#line:8:os.system("clear")
     print ("\033[92m")#line:9:print("\033[92m")
     print ("   ╔════════════════════════╗")#line:
-    print ("   ║ SYLHET CYBER SECURITY  ║") 
+    print ("   ║ Islamic cyber network  ║") 
     print ("   ╚════════════════════════╝")#line  
     
     print ("\n")#line:34:print("\n")
@@ -48,7 +48,7 @@ def get_target_details ():#line:69:def get_target_details():
 def print_ddos_banner ():#line:83:def print_ddos_banner():
     print ("\033[96m")#line:84:print("\033[96m")
     print ("   ╔══════════════════════════════════════════╗")#line:85:print("   ╔══════════════════════════════════════════╗")
-    print ("   ║               SCS DDOS TOOL              ║")#line:86:print("   ║               SCS DDOS TOOL             ║")
+    print ("   ║               SCS DDOS TOOL              ║")#line:86:print("   ║               Nurulamin DDOS TOOL             ║")
     print ("   ╚══════════════════════════════════════════╝")#line:87:print("   ╚══════════════════════════════════════════╝")
     print ("\n")#line:88:print("\n")
     
